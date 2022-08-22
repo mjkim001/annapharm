@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<decorators defaultdir="/WEB-INF/decorator">
+
+	<decorator name="main" page="main_decorator.jsp">
+		<pattern>/*</pattern>
+		<!-- <pattern>*.do</pattern> -->
+	</decorator>
+	
+<!-- 	<decorator name="mainAside" page="main_aside_decorator.jsp">
+		<pattern>/index/*</pattern>
+	</decorator> -->
+	
+	
+<!-- 	<decorator name="expert" page="expert_decorator.jsp">
+		<pattern>/index/*</pattern>
+	</decorator> -->
+	
+		<decorator name="expertAside" page="expert_aside_decorator.jsp">
+		<pattern>/index/*</pattern>
+	</decorator>
+	
+	
+	<excludes>		
+		<pattern>/resources/*</pattern>
+	</excludes>	
+</decorators>	
