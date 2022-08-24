@@ -62,7 +62,7 @@
   <tr>
     <td><img src="https://avatars.githubusercontent.com/KDJ97" style="width:50px;"></td>
     <td><img src="https://avatars.githubusercontent.com/windy9109" style="width:50px;"></td>
-    <td><img src="https://avatars.githubusercontent.com/novelop" style="width:50px;"></td>
+    <td><img src="https://avatars.githubusercontent.com/tayofan" style="width:50px;"></td>
     <td><img src="https://avatars.githubusercontent.com/mjkim001" style="width:50px;"></td>
     <td><img src="https://avatars.githubusercontent.com/morning123456" style="width:50px;"></td>
     <td><img src="https://avatars.githubusercontent.com/morning123456" style="width:50px;"></td>
@@ -70,7 +70,7 @@
   <tr>
     <td><a href="https://github.com/KDJ97">KDJ97</a></td>
     <td><a href="https://github.com/windy9109">windy9109</a></td>
-    <td><a href="https://github.com/novelop">novelop</a></td>
+    <td><a href="https://github.com/tayofan">tayofan</a></td>
     <td><a href="https://github.com/mjkim001">mjkim001</a></td>
     <td><a href="https://github.com/morning123456">morning123456</a></td>
     <td><a href="https://github.com/morning123456">morning123456</a></td>
